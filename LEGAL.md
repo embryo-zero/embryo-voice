@@ -12,3 +12,6 @@ License (read from its license file on 2026-11-16): **MPL-2.0**. Original licens
 - Bundled third-party parts keep their own licenses: CHECK them before a release.
 - What people make with the tool belongs to them; the tool's license does not cover its output.
 - No warranty beyond what the license says.
+
+## AI models (read by hand)
+- The code is MPL-2.0, but the pretrained models have their own licenses. **XTTS (v1/v2) is under the Coqui Public Model License (CPML): non-commercial only.** Do not offer XTTS in paid or commercial features; use models whose license allows commercial use, or our own trained voices. CHECK each model in TTS/.models.json before using it.
